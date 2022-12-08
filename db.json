@@ -1,16 +1,10 @@
 {
-  "posts":[
+  "quotes":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "date": "2022-12-06T23:59:46.604Z",
+      "emoji": "🍀",
+      "quote": "Vanity can easily overtake wisdom. It usually overtakes common sense. By Julian Casablancas",
+      "id": 1
     }
   ]
 }
